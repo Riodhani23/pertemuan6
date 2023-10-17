@@ -1,0 +1,19 @@
+.h3 {
+    background: #f2f5f2;
+    width: 800px;
+    height: 150px;
+    padding: 20px;
+    border: 5px solid gray;
+    margin: 20px;
+    box-sizing: content-box;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 500px;
+    padding-left:20px
+}
+img {
+    width: 240px;
+    height: 230px;
+    float: left;
+    padding-right: 1em;
+}
